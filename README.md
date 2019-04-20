@@ -4,7 +4,4 @@
  I hope it's self explanatory, but in essence, you'll get 3 windows. The first one says "E" and "F". Those are your E and F keys. You'll use them to interact with the game. The next window has a blank button. This is your space key. You'll be using this a lot, because it stops time. The last keys say directions. These move you in a certain direction. Because I couldn't figure out how to make autohotkey detect if I was holding down a key, you'll need to tap once to start moving in a direction, and tap again to stop.
  
  ## Planned features
- - Fix the broken movement system, replace it with a nicer design based around using clicks to move and attack.
- - Add slow motion and fast motion to the keys.
- - Add throwing
- - Add braking to your ship (that's right, for now you have to manually guide it).
+ - Scrap all of this, replace it with something even more convoluted, but easier to control.
